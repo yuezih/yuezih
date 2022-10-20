@@ -5,5 +5,5 @@
 - 🔭 My research interests are in `vision & language understanding` and `multi-modal pre-training`.
 - 💌 How to reach me: `yzihao@ruc.edu.cn`
 
-![yuezih's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuezih&show_icons=true&theme=vue&count_private=true&hide=contribs)
-[![yuezih's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuezih&langs_count=4&theme=buefy)](https://github.com/yuezih/github-readme-stats)
+![yuezih's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuezih&show_icons=true&theme=vue&count_private=true&hide=contribs)  
+[![yuezih's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuezih&langs_count=6&theme=buefy)](https://github.com/yuezih/github-readme-stats)
