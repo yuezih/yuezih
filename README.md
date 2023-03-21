@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🥷🏻 I’m **Zihao Yue (岳子豪)**, a Ph.D. student in the School of Information at the Renmin University of China, and currently working within the [AIM3 Lab](http://www.ruc-aim3.com) directed by [Prof. Qin Jin](http://www.jin-qin.com). 
-- 👨🏻‍🎓 I received my B.Eng. degree in Computer Science from the University of Electronic Science and Technology of China (UESTC), Chengdu, China in 2022.
+- 🥷🏻 I’m **Zihao Yue (岳子豪)**, a Ph.D. student at School of Information in Renmin University of China, and currently working within the [AIM3 Lab](http://www.ruc-aim3.com) directed by [Prof. Qin Jin](http://www.jin-qin.com). 
+- 👨🏻‍🎓 I received my B.Eng. degree in Computer Science from the University of Electronic Science and Technology of China (UESTC), Chengdu in 2022.
 - 🔭 My research interests are in `vision & language understanding` and `multi-modal pre-training`.
 - 💌 How to reach me: `yzihao@ruc.edu.cn`
 
